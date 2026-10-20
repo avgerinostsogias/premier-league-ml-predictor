@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Model files - optional for now
+*.pkl
+*.joblib
+
+# Cache
+.pytest_cache/
